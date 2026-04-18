@@ -1,0 +1,4 @@
+{"id": 1, "description": "Сделать ДЗ по линалу", "priority": 95, "status": "In Progress"}
+{"id": 2, "description": "Сходить в спортзал", "priority": 70, "status": "New"}
+{"id": 3, "description": "Купить продукты", "priority": 20, "status": "Done"}
+{"id": 4, "description": "Позвонить Диме по проекту", "priority": 85, "status": "New"}
