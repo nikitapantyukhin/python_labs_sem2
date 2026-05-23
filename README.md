@@ -5,3 +5,5 @@
 [Лабораторная работа №2. Модель задачи: дескрипторы и @property](https://github.com/nikitapantyukhin/python_labs_sem2/tree/main/lab2_model_property_descriptor_property)
 
 [Лабораторная работа №3: Очередь задач: итераторы и генераторы](https://github.com/nikitapantyukhin/python_labs_sem2/tree/main/lab3_queue_tasks_iterators_and_generators)
+
+[Лабораторная работа №4: Асинхронный исполнитель задач](https://github.com/nikitapantyukhin/python_labs_sem2/tree/main/lab4_asynchronous_execution_process)
